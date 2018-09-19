@@ -1,6 +1,5 @@
 #Epistemic Verbs
 suggest
-conclude
 believe
 appear
 indicate
@@ -19,38 +18,25 @@ think
 understand
 imply
 presume
-question
 suspect
 
 #Epistemic Adverbs
 rather
 slightly
 barely
-virtually
 strictly
-definitely
 presumably
 fairly
-evidently
-apparently
-actually
 theoretically
 basically
 relatively
-probably
 possibly
 preferably
 slenderly
 scantily
-rigorously
 decidedly
-obviously
 arguably
-necessarily
 seemingly
-completely
-frequently
-generally
 largely
 mainly
 mostly
@@ -58,10 +44,7 @@ occasionally
 partially
 partly
 practically
-relatively
 roughly
-totally
-usually
 virtually
 allegedly
 
@@ -80,19 +63,15 @@ unclearly
 unsure
 
 #Epistemic Modal Verbs
-must
 may
 might
+maybe
+shall
 should
-ought
 can
 could
-will
 would
-shall
 ought
-should
-maybe
 
 #Approximations
 usually

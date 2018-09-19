@@ -10,17 +10,12 @@
 #Contrast with what came before
 #Making a contrast between two separate things, people, ideas, etc.
 however
-in fact
 on the one hand
 on the other hand
 rather
 in contrast
-nevertheless
 nonetheless
 though
-actually
-ofcourse
-of course
 all the same
 anyway
 as a matter of fact
@@ -82,8 +77,6 @@ my guess
 we believe
 i hope
 we hope
-i speculate
-we speculate
 we feel
 we suppose
 i suspect
@@ -103,8 +96,6 @@ honestly
 #Conversation management
 actually
 anyway
-anyhow
-by the way
 i would say
 so well
 you know
@@ -136,8 +127,6 @@ like i said
 as i say
 
 #Saying something in another way
-well
-in other words
 the thing is
 what i mean is
 
@@ -175,8 +164,6 @@ smiling
 tears
 tear
 pause
-sigh
-sighs
 so ...
 but ...
 
@@ -194,27 +181,18 @@ and so forth
 and so on
 and suchlike
 at least
-basic
-fair
 for the most part
-general
 in a way
 in part
 in some ways
-kind of
 kinda
-more or less
-most
 partial
 possible
 pretty
 pretty much
-rather
 rough
 seldom
-several
 something or other
-sort of
 to a certain
 extent
 to some extent
@@ -234,7 +212,6 @@ pretty good chance
 high probability
 very high probability
 raises the possibility
-raises the probability
 reasonable chance
 highly unlikely
 little support
@@ -295,13 +272,11 @@ can not rule out
 can't rule out
 could be
 very low probability
-look like
 almost impossible
 not probable
 extremely unlikely
 presumptive
 there is a feeling that
-in a sense
 implicates
 thirty percent chance
 some possibility
@@ -360,7 +335,6 @@ highly likely
 certain extent
 suggestive of
 rather doubtful
-perhaps
 no support for
 preferentially
 potentially
