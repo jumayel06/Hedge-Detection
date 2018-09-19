@@ -6,12 +6,10 @@ certainly
 fact that
 show
 actually
-establish
 must
 of course
 ofcourse
 absolutely
-actually
 always
 apparently
 assuredly
@@ -65,17 +63,14 @@ highly
 impossible
 impressively
 incontrovertible
-indeed
 indispensablely
 inevitabley
 in fact
 manifestly
 markedly
 meaningfully
-must
 necessarily
 never
-no doubt
 notabley
 noteworthy
 noticeabley
@@ -99,7 +94,6 @@ rigorously
 safely
 securely
 self-evident
-show
 sizablely
 superior
 surely
@@ -125,6 +119,16 @@ we know
 well-known
 will
 will not
-in fact
 indeed
 no doubt
+prove
+honestly
+general
+mostly
+largely
+sure
+like i said
+as i say
+nonetheless
+mainly
+nevertheless

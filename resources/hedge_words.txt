@@ -19,6 +19,10 @@ understand
 imply
 presume
 suspect
+postulate
+reckon
+infer
+hope
 
 #Epistemic Adverbs
 rather
@@ -37,9 +41,6 @@ scantily
 decidedly
 arguably
 seemingly
-largely
-mainly
-mostly
 occasionally
 partially
 partly
@@ -61,6 +62,8 @@ rarely
 improbably
 unclearly
 unsure
+chance
+unclear
 
 #Epistemic Modal Verbs
 may
