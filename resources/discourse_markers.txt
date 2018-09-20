@@ -293,8 +293,6 @@ may be associated
 according to chance
 raises the probability
 significant chance
-not sure
-not so sure
 must be considered
 small doubt
 not very probable
