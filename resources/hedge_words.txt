@@ -62,6 +62,7 @@ rarely
 improbably
 unclearly
 unsure
+sure
 chance
 unclear
 
