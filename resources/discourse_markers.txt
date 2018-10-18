@@ -109,12 +109,6 @@ no real instance
 difficult question
 difficult to answer
 
-#Hesitation fillers
-sigh
-sighs
-mmm
-ah
-
 #To start and to end conversations
 well
 
@@ -153,19 +147,6 @@ i do not really understand
 i don't really understand
 i can not find the word
 i can't find the word
-
-#Other cues
-push
-laughs
-silence
-smile
-smiles
-smiling
-tears
-tear
-pause
-so ...
-but ...
 
 #Propositional (uncertainty into the propositional content)
 a bit
